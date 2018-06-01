@@ -1,0 +1,27 @@
+.login-content {
+    background-color: #1b3d72;
+    .loginpannel_sec {
+        background-color: #fff;
+        max-width: 400px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        margin: auto;
+        height: 440px;
+        padding: 50px 20px;
+        border-radius: 8px;
+        .img_logo {
+            text-align: center;
+            img {
+            max-width: 250px;
+            margin-bottom: 20px;
+            }
+        }
+        .signup-col a, .signup-col button {
+            margin-bottom: 26px;
+            padding: 24px 0;
+        }
+    }
+}
